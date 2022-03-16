@@ -6,6 +6,6 @@ Lots of room for improvement and flexability in functionality. For Example:
   <li>Adding a digital time counterpart</li>
   <li>Counting how many minutes have past</li>
   <li>Design improvement</li>
+  <li>Add minutes hand</li>
 </ul>
 
-# Demo
