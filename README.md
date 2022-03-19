@@ -2,7 +2,7 @@
 One of my first projects using Processing which creates a clock that counts the seconds.
 <br>
 
-# Room for Improvement
+### Room for Improvement
 
 <ul>
   <li>Adding a digital time counterpart</li>
